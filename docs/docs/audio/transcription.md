@@ -38,7 +38,7 @@ Marvin can generate text from speech.
 <div class="admonition info">
   <p class="admonition-title">How it works</p>
   <p>
-    Marvin passes your file to the OpenAI transcription API, which returns an transcript.
+    Marvin passes your file to the OpenAI transcription API, which returns a transcript.
   </p>
 </div>
 
